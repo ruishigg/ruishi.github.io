@@ -1,6 +1,8 @@
 今天给大家带来的是C.Cleaner这款工具的Windows端和安卓端，有需要电脑、手机清理的小伙伴，可以试试！
 C.Cleaner介绍
 今天分别介绍CC的Windows端和安卓端。
+https://ww0.lanzn.com/b00l136ebi
+密码:4beh
 第一款：Windows端
 Windows端是绿色版，文末关键字获取软件后解压，然后双击exe文件即可打开使用！
 图片
